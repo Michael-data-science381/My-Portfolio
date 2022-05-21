@@ -5,10 +5,10 @@ This repository is a portfolio of data science projects I completed.  Some of th
 
 ## University of Wisconsin -- Data Science Projects
 ### Predict Diamond Price And Loan Classification With Optimization For Machine Learning
-This completed project is second of two projects required for DS 775 - Prescriptive Analytics. It uses Python optimization of hyperparameters for both regression and classification for machine learning.
+This completed project is the second of two class projects required for DS 775 - Prescriptive Analytics. It uses Python to apply hyperparameter optimization to both regression and classification problems for machine learning.
 
 ### Combining Predictive And Prescriptive Analytics
-This completed project is first of two projects required for DS 775 - Prescriptive Analytics. It uses linear program in to find maximum airline fares.
+This completed project is first of two class projects required for DS 775 - Prescriptive Analytics. It uses linear program in to find maximum airline fares.
 
 ### Predicting Infant Birth Weight With Machine Learning Models
 This completed project is required for DS 740 - Data Mining & Machine Learning. It uses R machine learning analysis to determine risk factors associated with low infant birth weights.
