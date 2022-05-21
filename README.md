@@ -13,5 +13,5 @@ This completed project is first of two class projects required for DS 775 - Pres
 ### Predicting Infant Birth Weight With Machine Learning Models
 This completed project is required for DS 740 - Data Mining & Machine Learning. It uses R machine learning analysis to determine risk factors associated with low infant birth weights.
 
-### Performing OLAP with SSAS and MDX	
+### Performing OLAP With SSAS And MDX	
 This completed project is a required for DS 715 - Data Warehousing. It demonstrates the use of SSAS interactive features and MDX queries to perform OLAP operations from a make believe entrepreneurial company database.
