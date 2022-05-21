@@ -4,9 +4,14 @@ This repository is a portfolio of data science projects I completed.  Some of th
 
 
 ## University of Wisconsin -- Data Science Projects
-### Combining Predictive and Prescriptive Analytics
-This completed project is first of two projects required for DS 775 - Prescriptive Analytics. It uses linear program in to find maximum airline fares.
-View Project
-Optimization of Hyperparameters for Machine Learning
+### Optimization of Hyperparameters for Machine Learning
 This completed project is second of two projects required for DS 775 - Prescriptive Analytics. It uses optimization of hyperparameters to both regression and classification for machine learning.
 
+### Combining Predictive and Prescriptive Analytics
+This completed project is first of two projects required for DS 775 - Prescriptive Analytics. It uses linear program in to find maximum airline fares.
+
+### Predicting Infant Birth Weight with Machine Learning Models
+This completed project is required for DS 740 - Data Mining & Machine Learning. It uses R machine learning analysis to determine risk factors associated with low infant birth weights.
+
+### Performing OLAP with SSAS and MDX	
+This completed project is a result of a progression of previous assignments required for DS 715 - Data Warehousing. It uses linear program in to find maximum airline fares.
