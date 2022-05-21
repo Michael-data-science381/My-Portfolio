@@ -4,7 +4,7 @@ This repository is a portfolio of data science projects I completed.  Some of th
 
 
 ## University of Wisconsin -- Data Science Projects
-Combining Predictive and Prescriptive Analytics
+### Combining Predictive and Prescriptive Analytics
 This completed project is first of two projects required for DS 775 - Prescriptive Analytics. It uses linear program in to find maximum airline fares.
 View Project
 Optimization of Hyperparameters for Machine Learning
