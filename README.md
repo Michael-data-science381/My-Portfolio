@@ -14,4 +14,4 @@ This completed project is first of two class projects required for DS 775 - Pres
 This completed project is required for DS 740 - Data Mining & Machine Learning. It uses R machine learning analysis to determine risk factors associated with low infant birth weights.
 
 ### Performing OLAP with SSAS and MDX	
-This completed project is a result of a progression of previous assignments required for DS 715 - Data Warehousing. It uses linear program in to find maximum airline fares.
+This completed project is a required for DS 715 - Data Warehousing. It demonstrates the use of SSAS interactive features and MDX queries to perform OLAP operatoins of a make believe entrepreneurial company database.
