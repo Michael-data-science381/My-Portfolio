@@ -7,7 +7,7 @@ This repository is a portfolio of data science projects I completed.  Some of th
 ### Diamond Price and Loan Classification Optimization for Machine Learning
 This completed project is the second of two class projects required for DS 775 - Prescriptive Analytics. It uses Python to apply hyperparameter optimization to both regression and classification problems for machine learning.
 
-### Optimal Maximum Airfare by Combining Predictive and Prescriptive Analytics
+### Maximum Airfare Pricing by Combining Predictive and Prescriptive Analytics
 This completed project is first of two class projects required for DS 775 - Prescriptive Analytics. It uses Python to compute linear regression models and extract coefficients from linear regression models to build constraint expressions for a linear program.
 
 ### Predicting Infant Birth Weight with Machine Learning Models
