@@ -12,7 +12,7 @@ This completed project is required for DS 730 - Big Data: High Performance Compu
 - Established lung cancer predictions from trained models 
 
 ### High Performance Computing with Hive in Big Data  
-This completed project is required for DS 730 - Big Data: High Performance Computing. It uses Hive Query Languge to query in big data.
+This completed project is required for DS 730 - Big Data: High Performance Computing. It uses Hive language to query in big data.
 - Used Hive language to retrieve data storage files from a large cluster of machines
 - Created tables for a project and apply schema to retrieved data
 - Partitioned data by splicing data from tables into files to increase query performance
