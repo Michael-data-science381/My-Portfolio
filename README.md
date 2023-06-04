@@ -11,7 +11,7 @@ This completed project is required for DS 730 - Big Data: High Performance Compu
 - Fitted a random forest classification model for predicting lung cancer
 - Established lung cancer predictions from trained models 
 
-High Performance Computing with Hive in Big Data    
+### High Performance Computing with Hive in Big Data    
 - Used Hive language to retrieve data storage files from a large cluster of machines
 - Created tables for a project and apply schema to retrieved data
 - Partitioned data by splicing data from tables into files to increase query performance
