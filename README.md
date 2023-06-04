@@ -10,6 +10,13 @@ This completed project is required for DS 730 - Big Data: High Performance Compu
 - Supervised learning with splitting data into train and test models
 - Fitted a random forest classification model for predicting lung cancer
 - Established lung cancer predictions from trained models 
+
+High Performance Computing with Hive in Big Data    
+- Used Hive language to retrieve data storage files from a large cluster of machines
+- Created tables for a project and apply schema to retrieved data
+- Partitioned data by splicing data from tables into files to increase query performance
+- Identified rows in the data that satisfy a criterion to speed up querying time
+
    
 ### Diamond Price and Loan Classification Optimization for Machine Learning
 This is the second of two class projects required for DS 775 - Prescriptive Analytics. It uses Python to apply hyperparameter optimization to both regression and classification problems for machine learning.
