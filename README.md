@@ -4,7 +4,7 @@ This repository is a portfolio of data science projects I completed.  Some of th
 
 
 ## University of Wisconsin -- Data Science Projects
-### AWS Cloud Computing with Apache Zeppelin in Big Data   
+### AWS Cloud Computing with Apache Zeppelin
 This completed project is required for DS 730 - Big Data: High Performance Computing.  It uses Apache Spark (Scala) to determine factors involving detection of lung cancer.
 - Constructed a classification model pipeline by specifying input and output columns
 - Supervised learning with splitting data into train and test models
