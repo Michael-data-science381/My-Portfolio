@@ -6,10 +6,10 @@ This repository is a portfolio of data science projects I completed.  Some of th
 ## University of Wisconsin -- Data Science Projects
 ### AWS Cloud Computing with Apache Zeppelin in Big Data   
 This completed project is required for DS 730 - Big Data: High Performance Computing.  It uses Apache Spark (Scala) to determine factors involving detection of lung cancer.
-   • Constructed a classification model pipeline by specifying input and output columns
-   • Supervised learning with splitting data into train and test models
-   • Fitted a random forest classification model for predicting lung cancer
-   • Established lung cancer predictions from trained models 
+- Constructed a classification model pipeline by specifying input and output columns
+- Supervised learning with splitting data into train and test models
+- Fitted a random forest classification model for predicting lung cancer
+- Established lung cancer predictions from trained models 
    
 ### Diamond Price and Loan Classification Optimization for Machine Learning
 This is the second of two class projects required for DS 775 - Prescriptive Analytics. It uses Python to apply hyperparameter optimization to both regression and classification problems for machine learning.
