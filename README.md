@@ -2,7 +2,8 @@
 
 This repository is a portfolio of data science projects I completed.  Some of the projects I've worked on came from the [University of Wisconsin  -- Master of Science Data Science](https://datasciencedegree.wisconsin.edu/) program.
 
-### Thesis: - "Predictive Modeling of Aviation Accidents in the United States with Machine Learning", supervised by Dr. Tracy Bibelnieks - Identified risk factors of aviation accidents associated with aircraft using machine learning algorithms and computational analysis
+### Thesis: 
+- "Predictive Modeling of Aviation Accidents in the United States with Machine Learning", supervised by Dr. Tracy Bibelnieks - Identified risk factors of aviation accidents associated with aircraft using machine learning algorithms and computational analysis
 
 ## University of Wisconsin -- Data Science Projects
 ### AWS Cloud Computing with Apache Zeppelin
